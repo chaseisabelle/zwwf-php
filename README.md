@@ -12,3 +12,4 @@
 ### misc
 - a few dictionary text files are included, but you can use any others that you want
 - the "wildcard" letter is a representation of "any letter", so when unscrambling the script will attempt to use any alphabetic char, a-z
+- the golang version: https://github.com/chaseisabelle/zwwf-go
